@@ -1,5 +1,5 @@
 ## Hi there 👋,I'm Haadia Batool.
-I'm a Front-End Developer passionate about learning new technologies and staying  up to date with the latest web development trends.
+A curious Front End Developer and data cleaning expert who enjoys discovering new technologies and turning complex data into clean, useful information.
 
 # 💻 Tech Stack:
 <div align="left">
