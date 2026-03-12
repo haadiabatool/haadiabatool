@@ -1,5 +1,5 @@
 ## Hi there 👋,I'm Haadia Batool.
-A curious Front End Developer and data cleaning expert who enjoys discovering new technologies and turning complex data into clean, useful information.
+I am a dedicated Front End Developer with experience in Data Cleaning, always eager to explore emerging technologies and stay aligned with modern industry trends.
 
 # 💻 Tech Stack:
 <div align="left">
